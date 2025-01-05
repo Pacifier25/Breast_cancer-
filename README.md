@@ -77,14 +77,13 @@ pip install -r project_files/requirements.txt
 # Run the Application
 streamlit run project_files/app.py
 
-
-🚀 Deployment
+## 🚀 Deployment
 The app is currently deployed on Streamlit and will soon be available on Microsoft Azure.
 
-📥 Model File
+## 📥 Model File
 The trained model (breast_cancer_model.h5) is tracked using Git LFS and included in this repository.
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 Dataset: Kaggle - Breast Cancer Histopathology Images
 Frameworks: TensorFlow and Streamlit
 Design Elements: Pink Ribbon Awareness Theme
