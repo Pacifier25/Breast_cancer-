@@ -1,4 +1,4 @@
-# Breast Cancer Detector ![image](https://github.com/user-attachments/assets/d3d84ba3-55d0-4f1d-80f4-812ff1da65e9)
+# Breast Cancer Detector <img src="https://github.com/user-attachments/assets/d3d84ba3-55d0-4f1d-80f4-812ff1da65e9" width="20" height="20">
 
 
 
