@@ -1,4 +1,4 @@
-# Breast Cancer Detector ![Pink Ribbon](https://github.com/<Pacifier25>/<Breast_cancer->/blob/main/images/pink_ribbon.png?raw=true) 🎀
+# Breast Cancer Detector (https://github.com/<Pacifier25>/<Breast_cancer->/blob/main/images/pink_ribbon.png?raw=true) 🎀
 
 
 
