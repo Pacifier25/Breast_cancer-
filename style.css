@@ -1,0 +1,44 @@
+/* Background color */
+html, body, [class*="stApp"] {
+    background-color: pink;
+}
+
+/* Prediction text for No Cancer */
+.prediction-text-green {
+    font-size: 60px; /* Larger text size */
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    color: green; /* Green for no cancer */
+}
+
+/* Prediction text for Cancer Detected */
+.prediction-text-red {
+    font-size: 60px; /* Larger text size */
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    color: red; /* Red for cancer detected */
+}
+
+/* Message text styling */
+.info-text {
+    font-size: 28px; /* Larger size for additional text */
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+
+/* Image display */
+img {
+    display: block;
+    margin: 0 auto; /* Center-align the image */
+    width: 100%; /* Fit container width */
+    height: auto;
+}
+
+/* Footer styling */
+.footer {
+    margin-top: 20px;
+    text-align: center;
+}
