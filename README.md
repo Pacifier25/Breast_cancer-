@@ -25,18 +25,7 @@ The **Breast Cancer Detector** is an AI-powered tool that analyzes histopatholog
 ---
 
 ## 📂 Folder Structure
-📂 Folder Structure
-├── README.md                     # Project documentation
-├── breast_cancer_project.ipynb   # Jupyter Notebook for model training
-├── project_files/                # Supporting project files
-│   ├── app.py                    # Main application script
-│   ├── logo.jpg                  # Application logo
-│   ├── pink_background.jpg       # UI background image
-│   ├── pink_ribbon.jpg           # Breast cancer awareness ribbon
-│   ├── requirements.txt          # Dependencies
-│   ├── style.css                 # Custom CSS for styling
-│   ├── breast_cancer_model.h5    # Pre-trained model tracked via Git LFS
-
+![image](https://github.com/user-attachments/assets/58c9ed50-eaa0-45c7-b56c-c010099740c1)
 
 ---
 
