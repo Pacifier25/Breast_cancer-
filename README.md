@@ -40,10 +40,12 @@ The **Breast Cancer Detector** is an AI-powered tool that analyzes histopatholog
 ## 📊 Visualizations
 
 ### **Training vs Validation Loss**
-![Loss Graph](https://github.com/Pacifier25/Breast_cancer-/blob/main/images/loss_graph.png)
+![image](https://github.com/user-attachments/assets/eb2e46bd-4f41-45ed-9f34-2186998a63df)
+
 
 ### **Training vs Validation Accuracy**
-![Accuracy Graph](https://github.com/Pacifier25/Breast_cancer-/blob/main/images/accuracy_graph.png)
+![image](https://github.com/user-attachments/assets/9eb701c3-9ddd-4906-9f95-d28809569d04)
+
 
 ---
 
