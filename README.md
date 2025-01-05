@@ -1,10 +1,15 @@
-
 # Breast Cancer Detector <img src="https://github.com/user-attachments/assets/d3d84ba3-55d0-4f1d-80f4-812ff1da65e9" width="20" height="20">
 
 ---
 
 ## 🌟 Overview
 The **Breast Cancer Detector** is an AI-powered tool designed to analyze histopathological images and classify whether cancer is present or not. This project leverages deep learning techniques to deliver highly accurate predictions, making it a valuable tool for early detection and treatment planning.
+
+### 📊 Dataset
+This project uses the **BreakHis Dataset**, which contains **9,109 microscopic images** of breast tumor tissue collected from **82 patients**. The images are available at different magnification factors (40X, 100X, 200X, and 400X) and consist of **2,480 benign** and **5,429 malignant** samples in **PNG format** (700x460 pixels, 3-channel RGB). The dataset was developed in collaboration with the **P&D Laboratory – Pathological Anatomy and Cytopathology, Parana, Brazil**.
+
+### 🧠 Model
+The model is based on **DenseNet201**, a pre-trained Convolutional Neural Network (CNN) architecture. It has been **fine-tuned with 50 layers** to optimize performance for this dataset. The use of transfer learning allows the model to leverage pre-trained weights, enhancing feature extraction and classification accuracy.
 
 ---
 
@@ -39,8 +44,8 @@ The **Breast Cancer Detector** is an AI-powered tool designed to analyze histopa
 ## 📊 Results
 - **Final Training Accuracy**: **96.33%**  
 - **Final Validation Accuracy**: **93.55%**  
-- **Model Type**: Convolutional Neural Network (CNN)  
-- **Dataset Used**: [Breast Cancer Histopathological Images](https://www.kaggle.com/paultimothymooney/breast-histopathology-images)  
+- **Model Type**: DenseNet201 (Fine-tuned with 50 layers)  
+- **Dataset Used**: [BreakHis Dataset](https://www.kaggle.com/datasets/ambarish/breakhis)  
 
 ---
 
@@ -99,7 +104,7 @@ The app is currently deployed on Streamlit and will soon be available on Microso
 ---
 
 ## 🙏 Acknowledgements
-- **Dataset**: Kaggle - Breast Cancer Histopathology Images  
+- **Dataset**: Kaggle - [BreakHis Dataset](https://www.kaggle.com/datasets/ambarish/breakhis)  
 - **Frameworks**: TensorFlow and Streamlit  
 - **Design Elements**: Pink Ribbon Awareness Theme  
 
