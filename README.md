@@ -25,7 +25,18 @@ The **Breast Cancer Detector** is an AI-powered tool that analyzes histopatholog
 ---
 
 ## 📂 Folder Structure
-. ├── README.md # Project documentation ├── breast_cancer_project.ipynb # Jupyter Notebook for model training ├── project_files/ # Supporting project files │ ├── app.py # Main application script │ ├── logo.jpg # Application logo │ ├── pink_background.jpg # UI background image │ ├── pink_ribbon.jpg # Breast cancer awareness ribbon │ ├── requirements.txt # Dependencies │ ├── style.css # Custom CSS for styling │ ├── breast_cancer_model.h5 # Pre-trained model tracked via Git LFS
+📂 Folder Structure
+├── README.md                     # Project documentation
+├── breast_cancer_project.ipynb   # Jupyter Notebook for model training
+├── project_files/                # Supporting project files
+│   ├── app.py                    # Main application script
+│   ├── logo.jpg                  # Application logo
+│   ├── pink_background.jpg       # UI background image
+│   ├── pink_ribbon.jpg           # Breast cancer awareness ribbon
+│   ├── requirements.txt          # Dependencies
+│   ├── style.css                 # Custom CSS for styling
+│   ├── breast_cancer_model.h5    # Pre-trained model tracked via Git LFS
+
 
 ---
 
@@ -60,13 +71,19 @@ The **Breast Cancer Detector** is an AI-powered tool that analyzes histopatholog
 
 ### Steps
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Pacifier25/Breast_cancer-.git
-   cd Breast_cancer-
+# Clone the Repository
+git clone https://github.com/Pacifier25/Breast_cancer-.git
+cd Breast_cancer-
+
+# Create Virtual Environment
 python -m venv env
-source env/bin/activate   # For Linux/Mac
-env\Scripts\activate      # For Windows
+source env/bin/activate      # For Linux/Mac
+env\Scripts\activate         # For Windows
+
+# Install Dependencies
 pip install -r project_files/requirements.txt
+
+# Run the Application
 streamlit run project_files/app.py
 
 
