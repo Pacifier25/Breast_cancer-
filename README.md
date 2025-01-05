@@ -1,7 +1,5 @@
-# Open and write to the README.md file
-with open("README.md", "w") as readme:
-    readme.write("""
-# Breast Cancer Detector 🎀
+# Breast Cancer Detector <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Pink_ribbon.svg" width="20" height="20"> 
+
 
 ## 🌟 Overview
 The **Breast Cancer Detector** is an AI-powered tool that analyzes histopathological images to classify whether cancer is present or not. This project uses deep learning techniques to deliver highly accurate predictions, making it a valuable tool in early detection and treatment planning.
