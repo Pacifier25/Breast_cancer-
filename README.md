@@ -1,4 +1,5 @@
-# Breast Cancer Detector <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Pink_ribbon.svg" width="20" height="20"> 
+# Breast Cancer Detector ![Pink Ribbon](https://github.com/<username>/<repo>/blob/main/images/pink_ribbon.png?raw=true) 🎀
+
 
 
 ## 🌟 Overview
